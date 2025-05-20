@@ -7,10 +7,10 @@
 - 1. 將 SQL 語法丟進生成式 AI  
 - 2. 生成[ Mermaid ](https://www.mermaidchart.com/play#pako:eNqrVkrOT0lVslJSqgUAFW4DVg)語法  
 - 3. 將語法丟進 Mermaid 進行 ERD 生成
-- 4. 由辰瑄反覆確認是否正確，確定無誤之後將圖片傳給 Boi
+- 4. 由辰瑄反覆確認是否正確，確定無誤之後將 Mermaid 語法傳給 Boi
 
 二、(曾偉倫、吳禹賢)
-- 1. 將 Mermaid 所生成之圖片，重新再[ Draw.io ](https://drive.google.com/file/d/1aLLFoObLksR2cY7VaSfvFYKJt6n_eQr6/view?usp=sharing)中進行繪製
+- 1. 將 Mermaid 所生成之圖片，重新再用[ Draw.io ](https://drive.google.com/file/d/1aLLFoObLksR2cY7VaSfvFYKJt6n_eQr6/view?usp=sharing)進行繪製
 - 2. 除了實體以及關係之外，務必記得加上屬性，並加註 PK
 - 3. 由辰瑄反覆確認是否正確，確定無誤之後將圖片傳給 Boi
 
