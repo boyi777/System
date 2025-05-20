@@ -26,7 +26,7 @@
 <details>
   <summary>點我展開/收合</summary>  
 
-```mermaid
+```
 erDiagram
     ACCOUNTS-PAYABLE }o..|| SUPPLIERS : "associated with"
     ACCOUNTS-PAYABLE }o..|| PURCHASES : "references"
