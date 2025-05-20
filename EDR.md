@@ -1,4 +1,6 @@
-# Mermaid Code-------------------------------------------------------
+![ERD](./images/ERD_Mermaid.jpg)
+
+# Mermaid Code-----
 ```
 erDiagram
     ACCOUNTS-PAYABLE }o..|| SUPPLIERS : "associated with"
